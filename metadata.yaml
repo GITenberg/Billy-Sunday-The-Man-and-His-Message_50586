@@ -1,4 +1,8 @@
 _repo: Billy-Sunday-The-Man-and-His-Message_50586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50586-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, William T.
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '46131'
     url: http://www.gutenberg.org/2009/agents/46131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50586#Billy-Sunday-The-Man-and-His-Message
 gutenberg_issued: '2015-12-01'
 gutenberg_type: Text
 identifiers:
